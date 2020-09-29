@@ -1,0 +1,163 @@
+[
+    {
+      "question": "What is the translation for 'I want apple'?",
+      "choice1": "Biddi tuffah",
+      "choice2": "Biddak burtukaal",
+      "choice3": "Biddi burtukaal",
+      "choice4": "Bidna tuffah",
+      "answer": 1
+    },
+    {
+      "question": "What is the correct answer for 'Min wheyn inti?",
+      "choice1": "Ismi Maryam",
+      "choice2": "Inti helwa",
+      "choice3": "Ene min Amerika",
+      "choice4": "Ene taweel",
+      "answer": 3
+    },
+    {
+      "question": "What is the meaning of 'Andhom bayt kteer kabeer'?",
+      "choice1": "I have a big car",
+      "choice2": "You have a big car",
+      "choice3": "They have a big car",
+      "choice4": "They have a big house",
+      "answer": 4
+    },
+    {
+      "question": "How do you say 'Nice to meet you'?",
+      "choice1": "Ma fi moskile",
+      "choice2": "Shokran",
+      "choice3": "Ahwan",
+      "choice4": "Tasharafna",
+      "answer": 4
+    },
+    {
+      "question": "What is the meaning of 'Bahab el luga el Arabiya'?",
+      "choice1": "I love Arabic music",
+      "choice2": "I love Arabic language",
+      "choice3": "I love Arabic people",
+      "choice4": "I love Arabic countries",
+      "answer": 2
+    },
+    {
+      "question": "What is the translation for 'Ma fi haleeb bil tellaje'?",
+      "choice1": "There is no olives in the fridge",
+      "choice2": "There is no olives in the kitchen",
+      "choice3": "There is no milk in the fridge",
+      "choice4": "There is no milk in the kitchen",
+      "answer": 3
+    },
+    {
+      "question": "What is the meaning of 'Andi sual'?",
+      "choice1": "I have a house",
+      "choice2": "You have a house",
+      "choice3": "We have a question",
+      "choice4": "I have a question",
+      "answer": 4
+    },
+    {
+      "question": "How do you say 'I work every day'?",
+      "choice1": "Bashtagil kul yom",
+      "choice2": "Bit'ashtagil kul yom",
+      "choice3": "Bashtagil elyom",
+      "choice4": "Bit'ashtagil elyom",
+      "answer": 1
+    },
+    {
+      "question": "What is the answer for 'Emta bit'isha bil sabah'?",
+      "choice1": "Ba'kul el saa 7 ",
+      "choice2": "Bit'isha el saa 7",
+      "choice3": "Ba'tbukh el saa 7",
+      "choice4": "Ba'sha el saa 7",
+      "answer": 4
+    },
+    {
+      "question": "How do you say 'There is water in the cup'?",
+      "choice1": "Fi maiy bil matbakh",
+      "choice2": "Fi taawla bil matbakh",
+      "choice3": "Fi maiy bil kase",
+      "choice4": "Ma fi maiy bil kase",
+      "answer": 3
+    },
+    {
+      "question": "What is the translation for 'Shu andik fi shantik?'?",
+      "choice1": "What does she have in her bag/",
+      "choice2": "What do you have in your bag?",
+      "choice3": "Do you have a pen in your bag?",
+      "choice4": "Does she have a bag in her pen?",
+      "answer": 2
+    },
+    {
+      "question": "How do you say 'They have a big problem'?",
+      "choice1": "Andhom moshkila kbeera",
+      "choice2": "Andak moshkila kbeera",
+      "choice3": "Andi moshkila kbeera",
+      "choice4": "Ando moshkila kbeera",
+      "answer": 1
+    },
+    {
+      "question": "What is the meaning of 'Kam yom fi el shahar'?",
+      "choice1": "How many days are there in a week?",
+      "choice2": "How many hours are there in a day?",
+      "choice3": "How many days are there in a month?",
+      "choice4": "How much is this?",
+      "answer": 3
+    },
+    {
+      "question": "What cannot be an answer to 'Lesh biddak tit3allam (to learn) 3arabi?' ?",
+      "choice1": "La2inno kteer ba7eeb il-musiqa il-3arabiyee",
+      "choice2": "La2inno balaai el lugha kteer helwe",
+      "choice3": "La2inno kteer ba7eeb it-thaqafa il-3arabiyee",
+      "choice4": "La2inno ma baraf",
+      "answer": 4
+    },
+    {
+      "question": "What is the answer for 'Kam yom fi el usbua'?",
+      "choice1": "Fi 30 yom",
+      "choice2": "Fi 7 yom",
+      "choice3": "Fi 12 yom",
+      "choice4": "Fi 24 yom",
+      "answer": 2
+    },
+    {
+      "question": "How do you answer 'Kam omrak(/ik)'?",
+      "choice1": "Omrkom 30",
+      "choice2": "Omrak 30",
+      "choice3": "Omri 30",
+      "choice4": "Omrhom 30",
+      "answer": 3
+    },
+    {
+      "question": "How do you say 'How many months are there in a year'?",
+      "choice1": "Kam shahar fi el sana?",
+      "choice2": "Kam yom fi el shahar?",
+      "choice3": "Kam yom fi el usbua?",
+      "choice4": "Kam omrak?",
+      "answer": 1
+    },
+    {
+      "question": "What is the translation for 'There is a pen in the bag'?",
+      "choice1": "Fi maiy bil matbakh",
+      "choice2": "Fi taawla bil bayt",
+      "choice3": "Fi kalam ala taawla",
+      "choice4": "Fi kalam bil shanta",
+      "answer": 4
+    },
+    {
+      "question": "What is the answer for 'Shu bitutbukh elyom?'?",
+      "choice1": "Batbukh jaj",
+      "choice2": "Bakul jaj",
+      "choice3": "Bahab jaj",
+      "choice4": "Bashuf jaj",
+      "answer": 1
+    },
+    {
+      "question": "What is the answer for 'Shu bitakul hella?'?",
+      "choice1": "Bakul jaj",
+      "choice2": "Bitakul jaj",
+      "choice3": "Bahab jaj",
+      "choice4": "Bashuf jaj",
+      "answer": 1
+    }
+  ]
+  
